@@ -112,3 +112,21 @@ img {
 .hero * {
 	z-index: 10;
 }
+/* Icons */
+
+.icons {
+	padding: 30px;
+}
+
+.icons h3 {
+	font-weight: bold;
+	margin: 15px;
+}
+
+.icons i {
+	background-color: #28a745;
+	border-radius: 50%;
+	color: #fff;
+	padding: 1rem;
+	margin-bottom: 15px;
+}
